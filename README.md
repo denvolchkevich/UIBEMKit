@@ -1,2 +1,2 @@
-# uikit
-UI kit for large projects
+# UI BEM Kit
+UI Kit for large projects based on BEM methodology.
