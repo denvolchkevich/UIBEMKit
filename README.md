@@ -1,2 +1,2 @@
 # Styleguider
-Dinamic styleguide system.
+Open-source dinamic styleguide system.
